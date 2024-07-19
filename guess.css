@@ -1,0 +1,13 @@
+*{
+    /* justify-content: center; */
+    text-align: center;
+    background-color: blueviolet;
+    color: yellow;
+}
+#subt{
+    background-color: brown;
+}
+#guessField{
+    background-color: white;
+    color:brown;
+}
